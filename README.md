@@ -11,7 +11,7 @@ Make sure you have [pipenv](https://pipenv.pypa.io/en/latest/) installed, this i
 Then clone the repo to a directory of your choosing.
 
 ```bash
-> git clone https://
+> git clone https://github.com/mrpbennett/dummy-npis.git
 ```
 
 Once you have cloned the repo, it's time to install its dependencies. Make sure you're in the root of the repo in the terminal. Then run the following command.
